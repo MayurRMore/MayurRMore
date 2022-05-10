@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning **Aws,Networking**
 
-- 📫 How to reach me **moremayur075@gmail.com**903999531**
-
+- 📫 How to reach me **moremayur075@gmail.com**
+                     **9039995319**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayurmore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayurmore" height="30" width="40" /></a>
